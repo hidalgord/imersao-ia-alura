@@ -4,20 +4,23 @@ let dados = [
         descricao: "Troca de revestimentos (azulejos, pastilhas),"+
                     "Pintura das paredes e armários, Instalação de iluminação diferenciada,"+
                     "Substituição de bancada e cuba, Organização de armários com novos acessórios.",
-        link: "https://pt.wikipedia.org/wiki/Cozinha"
+        link: "https://pt.wikipedia.org/wiki/Cozinha",
+        tags: "kitchen copa refeitorio"
     },
     {
         titulo: "Banheiro",
         descricao: "Reposição de louças sanitárias,"+
                     "Troca de revestimentos, Instalação de box blindex ou cortina,"+
                     "Pintura das paredes, Substituição de metais.",
-        link: "https://pt.wikipedia.org/wiki/wiki/Banheiro"
+        link: "https://pt.wikipedia.org/wiki/wiki/Banheiro",
+        tags: "lavabo wc toilet"
     },
     {
         titulo: "Dormitório",
         descricao: "Revestimento de cabeceira com papel de parede ou painel 3D,"+
                     "Pintura das paredes com cores vibrantes ou tons neutros,"+
                     "Instalação de iluminação indireta, Criação de um closet planejado.",
-        link: "https://pt.wikipedia.org/wiki/Quarto"
+        link: "https://pt.wikipedia.org/wiki/Quarto",
+        tags: "quarto suite"
     }
 ]
