@@ -36,10 +36,10 @@ function pesquisar() {
         }
     }
 
+    // Atualiza o conteúdo da seção com os resultados da pesquisa
+    section.innerHTML = resultado;
+
     if (!resultado) {
         section.innerHTML = "<p>Dados não encontrados</p>"
     }
-
-    // Atualiza o conteúdo da seção com os resultados da pesquisa
-    section.innerHTML = resultado;
 }
